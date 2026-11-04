@@ -1,4 +1,4 @@
 .venv
 .env
-__pycache__/
+__pycache__/            #fichiers du code précompilés Python. des fichiers générés automatiquement et temporaires
 *.pyc
